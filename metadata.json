@@ -1,0 +1,6 @@
+{
+  "name": "Shree Shyam Multi Trade",
+  "description": "Premium manufacturer of knitted fabrics and expert yarn trading & brokerage solutions based in Silvassa. Features a 10-page fully responsive catalog with direct-to-WhatsApp ordering, fabric gallery, manufacturing timeline, and admin configuration dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
